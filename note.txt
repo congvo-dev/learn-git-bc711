@@ -1,0 +1,5 @@
+
+
+repository local (trong máy của user)
+
+repository remote ( trên github)
