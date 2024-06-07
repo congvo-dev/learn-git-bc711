@@ -3,7 +3,7 @@
 repository local (trong máy của user)
 
 repository remote ( trên github)
-
+git
 tạo repository local : git init ( mỗi dự án sẽ làm 1 lần)
 
 push : đưa source từ máy (local) lên github (remote)
